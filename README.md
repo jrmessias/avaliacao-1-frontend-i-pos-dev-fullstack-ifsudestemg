@@ -14,10 +14,6 @@ Versão utilizada do Node.js: 24.10.0
 - Reactive Native
 - Expo
 
-## Documentação
-
-
-
 ## Instalação
 
 Para instalar as dependências do projeto, via terminal, rode o seguinte comando: `npm install`
@@ -26,8 +22,8 @@ Para instalar as dependências do projeto, via terminal, rode o seguinte comando
 
 Para iniciar uma pré-visualização, via terminal, na raiz, rode o seguinte comando: `npm start`
 
-Irá abrir uma página no navegador com um QR code para ser escaneado com o aplicativo Expo Go no celular (disponível na Play Store e App Store) ou abrir emulador Android/iOS.
+No terminal irá exibir um QR code para ser escaneado com o aplicativo Expo Go no celular (disponível na Play Store e App Store) ou abrir emulador Android/iOS.
 
 Siga as instruções no terminal para mais detalhes.
 
-| Para rodar no navegador pode-se utilizar a tecla W após iniciar a pré-visualização.
+| Para abrir no navegador pode-se utilizar a tecla `w` após iniciar a pré-visualização.
