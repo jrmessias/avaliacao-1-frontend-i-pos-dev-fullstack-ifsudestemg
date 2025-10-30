@@ -43,14 +43,14 @@ export default function PropertyListScreen() {
 const styles = StyleSheet.create({
     propertiesList: {
         overflow: 'scroll',
-        height: 600
+        height: 500
     },
     safe: {
         flex: 1,
         backgroundColor: "#EDC4B3",
         alignItems: 'center',
         overflow: 'scroll',
-        height: 600,
+        height: 500,
     },
     title: {
         fontSize: 24,

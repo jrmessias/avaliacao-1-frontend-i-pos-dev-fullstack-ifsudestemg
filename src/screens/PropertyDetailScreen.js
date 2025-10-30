@@ -64,12 +64,11 @@ const styles = StyleSheet.create({
         color: '#545947',
         fontWeight: 'bold',
         padding: 8,
-        textAlign: 'center',
+        textAlign: 'left',
     },
     propertyDataDescription: {
         fontSize: 20,
         color: '#545947',
-        fontWeight: 'bold',
         padding: 8,
         textAlign: 'left',
     },

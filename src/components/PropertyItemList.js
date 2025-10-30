@@ -30,11 +30,11 @@ const styles = StyleSheet.create({
         backgroundColor: '#A5DDD6',
         paddingHorizontal: 24,
         paddingVertical: 16,
-        marginVertical: 16,
+        marginVertical: 4,
     },
     propertyImage: {
-        width: 150,
-        height: 150,
+        width: 100,
+        height: 100,
         marginRight: 24,
         borderRadius: 16,
     },
@@ -43,18 +43,18 @@ const styles = StyleSheet.create({
         width: '50%'
     },
     propertyDataTitle: {
-        fontSize: 24,
+        fontSize: 20,
         fontWeight: 'bold',
         color: '#545947',
         marginVertical: 4,
     },
     propertyDataDescription: {
-        fontSize: 20,
+        fontSize: 16,
         color: '#545947',
         marginVertical: 4,
     },
     propertyDataPrice: {
-        fontSize: 24,
+        fontSize: 20,
         fontWeight: 'bold',
         color: '#545947',
         marginVertical: 4,
